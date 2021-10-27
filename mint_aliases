@@ -8,6 +8,7 @@ alias d='date +%F'
 alias e='emacs'
 alias g='git'
 alias h='history'
+alias i='sudo apt install'
 alias j='jobs -l'
 # l = ls -CF
 alias n='nmcli dev status'
