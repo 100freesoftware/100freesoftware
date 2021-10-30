@@ -27,7 +27,6 @@ alias now='date +'%T''
 alias nowtime=now
 alias partusage='df -hlT --exclude-type=tmpfs --exclude-type=devtmpfs'
 alias ports='netstat -tulanp'
-alias speed='speedtest-cli --server 18404 --simple'
 alias totalusage='df -hl --total | grep total'
 alias update='sudo apt-get update && sudo apt-get upgrade'
 alias updatey='sudo apt-get update && sudo apt-get upgrade -y'
