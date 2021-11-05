@@ -11,7 +11,6 @@
 #
 # Last update: 5 november 2021
 #
-# NOT ADVISED TO USE
 
 [ $EUID -ne 0 ] && { echo "$0 - Foutmelding: dit script moet worden uitgevoerd als root of een gebruiker uit de wheel groep via sudo."; exit 1; }
 
